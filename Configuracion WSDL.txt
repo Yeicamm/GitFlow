@@ -1,0 +1,10 @@
+<!--<configuration>
+                    <schemaLanguage>WSDL</schemaLanguage>
+                    <generateDirectory>${project.basedir}/src/main/java/</generateDirectory>
+                    <generatePackage>com.gal.afiliaciones.wsdl</generatePackage>
+                    <schemas>
+                        <schema>
+                            <url>http://localhost:8088/mockRegistraduriaBinding?wsdl</url>
+                        </schema>
+                    </schemas>
+                </configuration>-->
